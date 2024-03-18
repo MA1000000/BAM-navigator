@@ -22,3 +22,5 @@ Waits for a specified duration before clearing the OLED display and checking for
 Helper Functions:
 smartDelay(): Ensures that the GPS object is being updated properly by continuously processing incoming data while waiting for a specified duration.
 ISR_pin2_SaveLocation(): An interrupt service routine triggered by a rising edge on pin 2 (configured as a pushbutton) that saves the current GPS location coordinates (latitude and longitude) to global variables saved_location_LAT and saved_location_LON.
+
+![BAM](https://github.com/MA1000000/BAM-navigator/assets/116116804/623cbacd-8df3-4ed5-85f0-008fa4dd9885)
